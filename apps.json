@@ -3,8 +3,8 @@
   // "park" = neue Version von RawrPark selbst (Zip mit RawrPark.exe). Weglassen, wenn kein Update.
   "park": {
     "version": "1.2.0",
-    "url": "https://github.com/Fearless9453-1/RawrPark/releases/download/park-v1.2.0/RawrPark-1.2.0.zip",
-    "sha256": "43F98DA9330D5C8030515DE0422F6C5959B4B058508DC736232475B9CA9EDF4F"
+    "url": "https://github.com/Fearless9453-1/RawrPark/releases/download/park-v1.2.1/RawrPark-1.2.1.zip",
+    "sha256": "814F5928DB5A37019205F31DAB2DE56FF66A20AD2CE15A974D9479730A091434"
   },
   "apps": [
     {
