@@ -1,0 +1,21 @@
+{
+  // Diese Datei irgendwo öffentlich hosten (z. B. GitHub raw) und die URL in RawrPark > Settings eintragen.
+  // "park" = neue Version von RawrPark selbst (Zip mit RawrPark.exe). Weglassen, wenn kein Update.
+  "park": {
+    "version": "1.0.0",
+    "url": "",
+    "sha256": ""
+  },
+  "apps": [
+    {
+      "id": "rawrcolors",
+      "name": "Rawr Colors",
+      "icon": "🎨",
+      "description": "Screen looks, HDR-ready overlay effects, bloom, teal & orange, anime enhance.",
+      "version": "1.10.0",
+      "url": "https://github.com/DEIN-NAME/RawrColors/releases/download/v1.10.0/RawrColors-1.10.0.zip",
+      "exe": "RawrColors.exe",
+      "sha256": ""
+    }
+  ]
+}
