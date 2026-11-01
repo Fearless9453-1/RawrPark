@@ -2,9 +2,9 @@
   // Diese Datei irgendwo öffentlich hosten (z. B. GitHub raw) und die URL in RawrPark > Settings eintragen.
   // "park" = neue Version von RawrPark selbst (Zip mit RawrPark.exe). Weglassen, wenn kein Update.
   "park": {
-    "version": "1.3.0",
-    "url": "https://github.com/Fearless9453-1/RawrPark/releases/download/park-v1.3.0/RawrPark-1.3.0.zip",
-    "sha256": "BC27FEA7FC3C470681EDBC2AF86D34AB258D7A6A2D44201F88AB7C80FC6EE540"
+    "version": "1.4.0",
+    "url": "https://github.com/Fearless9453-1/RawrPark/releases/download/park-v1.4.0/RawrPark-1.4.0.zip",
+    "sha256": "899A250613F3073C46757D9B1CF861CF7B77F9EF0213B272B041695F789DC9D4"
   },
   "apps": [
     {
