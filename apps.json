@@ -17,5 +17,15 @@
       "exe": "RawrColors.exe",
       "sha256": "27E5E3F839A04C60213664B0A59366B091BA45154579CC516C642E22715C017B"
     }
+    {
+  "id": "rawrclicker",
+  "name": "Rawr Clicker",
+  "icon": "🦖",
+  "description": "Autoclicker with a dino: hotkey, tray, sound, profiles. Shows up in Rawr Overlay as the Clicker block.",
+  "version": "1.2.0",
+  "url": "https://github.com/Fearless9453-1/RawrPark/releases/download/clicker-v1.2.0/RawrClicker-1.2.0.zip",
+  "exe": "RawrClicker.exe",
+  "sha256": "5168167BFB649F3917F4B11B57A81262943D5C1F8C2D5631D45A847BABCE5D0C"
+    }
   ]
 }
