@@ -4,7 +4,7 @@
   "park": {
     "version": "1.5.0",
     "url": "https://github.com/Fearless9453-1/RawrPark/releases/download/park-v1.5.0/RawrPark-1.5.0.zip",
-    "sha256": "B20C95068190D1E9EA2541C0B88AE3714549516802028C75707E44124C4961A9"
+    "sha256": "941A9DB78EF1E985B2967987876871ED20CD96BB1D07C363213C20F8D0293657"
   },
   "apps": [
     {
@@ -16,16 +16,26 @@
       "url": "https://github.com/Fearless9453-1/RawrPark/releases/download/v1.10.0/RawrColors-1.10.0.zip",
       "exe": "RawrColors.exe",
       "sha256": "27E5E3F839A04C60213664B0A59366B091BA45154579CC516C642E22715C017B"
-    }
+    },
     {
-  "id": "rawrclicker",
-  "name": "Rawr Clicker",
-  "icon": "🦖",
-  "description": "Autoclicker with a dino: hotkey, tray, sound, profiles. Shows up in Rawr Overlay as the Clicker block.",
-  "version": "1.2.0",
-  "url": "https://github.com/Fearless9453-1/RawrPark/releases/download/clicker-v1.2.0/RawrClicker-1.2.0.zip",
-  "exe": "RawrClicker.exe",
-  "sha256": "5168167BFB649F3917F4B11B57A81262943D5C1F8C2D5631D45A847BABCE5D0C"
-    }
+      "id": "rawrclicker",
+      "name": "Rawr Clicker",
+      "icon": "🦖",
+      "description": "Autoclicker with a dino: hotkey, tray, sound, profiles. Shows up in Rawr Overlay as the Clicker block.",
+      "version": "1.2.0",
+      "url": "https://github.com/Fearless9453-1/RawrPark/releases/download/clicker-v1.2.0/RawrClicker-1.2.0.zip",
+      "exe": "RawrClicker.exe",
+      "sha256": "5168167BFB649F3917F4B11B57A81262943D5C1F8C2D5631D45A847BABCE5D0C"
+    },
+    {
+      "id": "rawrcrosshair",
+      "name": "Rawr Crosshair",
+      "icon": "🎯",
+      "description": "Custom crosshair overlay: build it from lines, dots, rings or draw it. Moves when you shoot, aim or run. Hotkey, tray, share codes.",
+      "version": "1.4.0",
+      "url": "https://github.com/Fearless9453-1/RawrPark/releases/download/crosshair-v1.4.0/RawrCrosshair-1.4.0.zip",
+      "exe": "RawrCrosshair.exe",
+      "sha256": "05EB8F8E3E38A6127E4E454E607C4E46E310C570AC55F98764C9519686F0EC15"
+    }    
   ]
 }
